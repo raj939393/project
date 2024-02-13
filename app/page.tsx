@@ -43,13 +43,13 @@ function valentine() {
               </h1>
 
               <p className="font-normal text-base text-slate-500 mb-4 relative z-50">
-                Meteors blaze, shooting stars they gleam,
+                I've loved you from the moment I saw you👀.
                 <br></br>
-                In your eyes, I find my dream.
+                Right from the start, you stole my heart❤️.
                 <br></br>
-                With every twinkle, my heart it beams,
+                When I look at you, I see everything I've ever wanted.
                 <br></br>
-                Will you be my valentine, in love&apos;s cosmic stream?
+                Dishuu🥰 Will you be my valentine?
                 <br></br>
               </p>
               <div className="flex gap-3 justify-between items-center">
