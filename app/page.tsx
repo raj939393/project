@@ -9,8 +9,7 @@ import { GiHeartNecklace } from "react-icons/gi";
 import { motion } from "framer-motion";
 
 const line1 = `
-Roses are red, violets are blue,
-`;
+Roses are red, violets are blue,`;
 const line2 = `My dear, my valentine's true.
 `;
 const line3 = `Your laughter's contagious, like a joyful tune.
