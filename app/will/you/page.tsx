@@ -6,7 +6,7 @@ export default function Home() {
   const line1 = `"Roses are red, violets are blue, there is no better person than you🥰😘.
 I am so glad that you are mine🥰.
 when i tell you i love you,i don't say it out of habit,
-i say it to remind that you&apos;re the best thing that ever happend to me😘😍.
+i say it to remind that you are the best thing that ever happend to me😘😍.
 Every time i see you👀,
 i fall in love all over again😑💞.
 Even If I meet more than a hundred people a day, 
